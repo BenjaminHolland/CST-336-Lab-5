@@ -1,0 +1,9 @@
+DUE: UNKNOWN
+1) All products are initially displayed, order by price (15pts)
+2) Products are filtered by category upon clicking on the "Search Products" button (15pts)
+3) Products are filtered by max price, if value entered (15pts)
+4) Products are filtered by "healthy choice", if checkbox checked (15pts)
+5) Products are sorted by product name or price (15pts)
+6) When clicking on a product, its description is shown on the same page (15pts)
+7) There is an external CSS file (10p
+ts)
